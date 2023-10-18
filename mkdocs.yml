@@ -1,0 +1,7 @@
+site_name: test-rohan12
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
